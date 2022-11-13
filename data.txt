@@ -1,0 +1,5 @@
+Name: Hicham
+Age: 32
+Favorite Color: Blue
+School : Ironhack
+Course : Web Development 
